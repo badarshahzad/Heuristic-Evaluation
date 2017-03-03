@@ -34,7 +34,6 @@ Always make sure your system have continuity across your platorm.
 
 5. Error prevention:  or "Glad I didn't do that!"
 ## Details:
-Details:
 The best design don't only have great error recvery, but prevent users from making those error.
 ## Example:
 If you look at car dashboard. Excellent error prevention. The car dashboard will tell what is wronge with car.
