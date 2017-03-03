@@ -81,6 +81,7 @@ You already our daily life devices and componets those can be just readjust each
 You may be aware about folding stairs! right?
 Always make sure your system provides documentation to help the user.
 
-[How-to-conduct-a-heuristic-evaluation](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
-[Heuristic-Evaluation-Guide](https://www.sitepoint.com/heuristic-evaluation-guide/)
+* [How-to-conduct-a-heuristic-evaluation](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
+
+* [Heuristic-Evaluation-Guide](https://www.sitepoint.com/heuristic-evaluation-guide/)
 
