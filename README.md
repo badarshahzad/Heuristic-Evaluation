@@ -22,7 +22,6 @@ Users make mistakes and need an "emergency exit" to get back to where want to be
 ## Example:
 Look at tv you can see remote has previous button to revert to your channel. Similarly, the home button 
 you can see in websites or apps. Look at your cell phones you also have home button to exit abruptly.
-
 Always make sure that your system has a simple and efficient  emergency exit to "fix" user error.
 
 4. Consistency and standards: or "Oh, I know that"
@@ -52,7 +51,6 @@ Always make sure that your system prioritizes recognition over recall, whenever 
 
 
 7. Felxibility and Efficienciy of Use: or "It doesn't matter if you are an Expert  or a newbie"
-
 ## Details: 
 System should incorporate accelators, which are unseen to the novice user, but that allow the expert user navigate faster with frequent actions. 
 ## Example:
@@ -61,7 +59,6 @@ to access tools quickly.
 Always make sure that your system incorporates acceslators to facilitate expert users without affecting noice users.
 
 8. Aesthetic and Minimalist Design: or "Wow and WOAH!"
-
 ## Details: 
 Dialogues should not contain irrelavent information. Design should be minimal as possible. Deminish the visiblity.
 The efficient as possible
@@ -71,7 +68,6 @@ Always make sure your system is Aestheticly pleasent and Efficiently composed.
 
 
 9. Help Users Recognize, Diagnose and Recover from Errors: or "My Bad"
-
 ## Details:
 Errors messages should be expressed in plan languages, and precisely indicate the problem.
 ## Example:
@@ -79,10 +75,8 @@ Well if you look at pencil if tip breaks user can clearly understand what is wro
 Always make sure your system indicates errors and messages in plain lanuage.
 
 10. Help and Documentation : or "Now I get it!"
-
 ## Details:
 Even though the system can use without documentation, it may be necessary to  provide it.
-
 ## Example:
 You already our daily life devices and componets those can be just readjust each component with each to make full fledge device or component. Do you know about folding bed,sofa, bike and machine. You can compress them easily and reopen them again.
 You may be aware about folding stairs! right?
